@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Tiffany Harrell Blog</title>
+        <link>https://tharrell4.github.io/tech-portfolio//tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Tiffany Harrell news and events.</description>
+        <lastBuildDate>Fri, 02 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Tiffany Harrell Blog</title>
+            <url>https://tharrell4.github.io/tech-portfolio//tech-portfolio/undefined</url>
+            <link>https://tharrell4.github.io/tech-portfolio//tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2021 Tiffany R Harrell</copyright>
+        <item>
+            <title><![CDATA[Initial Blog Post]]></title>
+            <link>https://tharrell4.github.io/tech-portfolio//tech-portfolio/blog/2020/10/02/blog-post.html</link>
+            <guid>https://tharrell4.github.io/tech-portfolio//tech-portfolio/blog/2020/10/02/blog-post.html</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>On the never-ending To-Do List I learned how to create my technical portfolio in CSC 256 @ WTCC October 2021.</p> ]]></description>
+        </item>
+    </channel>
+</rss>
