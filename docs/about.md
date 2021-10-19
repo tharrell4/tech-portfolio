@@ -3,29 +3,12 @@ id: about
 title: About
 ---
 
-I am currently attending GHC20 (Grace Hopper Celebration 2020). I began this portfolio in a workshop and it is the greatest idea ever!
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+My name is Tiffany Harrell. I currently am a Team Lead for Lenovo Premium Services Support. I also am 3 classes from finishing my degree at Wake Technical Community College. I am a gamer (PC, switch, and tabletop/RPG). 
 
-1. Your current position
-2. Organizations you're involved with
-3. Your personal and professional values
-4. Hobbies or fun facts
+I volunteer at Kramden and the Food Bank of Eastern NC.
 
-Write it in first (I) or third (Your Name Here) person.
+In 2017 I suddenly lost my husband to a heart attack. I was previously a stay at home mom who built/fixed computers and did web mark up and scripting to make extra money. I enrolled at WTCC following the death of my husband. I had 5 amazing children with my husband - including a set of triplet daughters. I work hard everyday both at home and work. 
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Life has challenges, but in those darkest times, when there doesn't seem to be a way out, just take the first step. Don't give up.
 
-## Current Role
-
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-See the bottom of my website pages.
+I have many accomplishments and awards from work and school. My LinkedIn is up to date on all my latest certifications as well.
