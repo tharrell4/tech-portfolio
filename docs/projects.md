@@ -5,4 +5,4 @@ title: Projects
 
 Testing Restful API with DuckDuckGo:
 
-![DuckDuckGo_Project](./assets/DDG_project.png)
+![Duck Duck Go Project](./assets/ddg_project.PNG)
