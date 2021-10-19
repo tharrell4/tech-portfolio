@@ -11,4 +11,4 @@ In 2017 I suddenly lost my husband to a heart attack. I was previously a stay at
 
 Life has challenges, but in those darkest times, when there doesn't seem to be a way out, just take the first step. Don't give up.
 
-I have many accomplishments and awards from work and school. My LinkedIn is up to date on all my latest certifications as well.
+I have many accomplishments and awards from work and school. My LinkedIn is up to date on all my latest certifications as well. 
